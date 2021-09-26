@@ -1,0 +1,101 @@
+[
+    {
+        "id": 1,
+        "name": "Arif Hossain",
+        "role": "Front End Devoloper",
+        "salary": 2000,
+        "age": 21,
+        "photo": "https://images.pexels.com/photos/1054048/pexels-photo-1054048.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "country": "Bangladesh"
+    },
+    {
+        "id": 2,
+        "name": "Susmita Shen",
+        "role": "Web Designer",
+        "salary": 3500,
+        "age": 25,
+        "photo": "https://images.pexels.com/photos/2245383/pexels-photo-2245383.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "country": "India"
+    },
+    {
+        "id": 3,
+        "name": "RK Rahmot Ullah",
+        "role": "Back End Devoloper",
+        "salary": 4000,
+        "age": 28,
+        "photo": "https://images.pexels.com/photos/2532766/pexels-photo-2532766.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "country": "Bangladesh"
+    },
+    {
+        "id": 4,
+        "name": "Afsana Akther",
+        "role": "Devoloper in React",
+        "salary": 1500,
+        "age": 25,
+        "photo": "https://images.pexels.com/photos/698532/pexels-photo-698532.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "country": "Bangladesh"
+    },
+    {
+        "id": 5,
+        "name": "Ema Shen",
+        "role": "Front End Devoloper",
+        "salary": 2200,
+        "age": 22,
+        "photo": "https://images.pexels.com/photos/3936894/pexels-photo-3936894.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "country": "USA"
+    },
+    {
+        "id": 6,
+        "name": "Rakib Hasan",
+        "role": "Expart in HTML & CSS",
+        "salary": 3500,
+        "age": 24,
+        "photo": "https://images.pexels.com/photos/3211476/pexels-photo-3211476.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "country": "Bangladesh"
+    },
+    {
+        "id": 7,
+        "name": "Rahim Mia",
+        "role": "Back End Devoloper",
+        "salary": 4000,
+        "age": 28,
+        "photo": "https://images.pexels.com/photos/4061512/pexels-photo-4061512.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "country": "Bangladesh"
+    },
+    {
+        "id": 8,
+        "name": "Tristna Marillo",
+        "role": "Devoloper in React",
+        "salary": 1500,
+        "age": 25,
+        "photo": "https://images.pexels.com/photos/3279570/pexels-photo-3279570.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "country": "USA"
+    },
+    {
+        "id": 9,
+        "name": "Rakib Mia",
+        "role": "Front End Devoloper",
+        "salary": 3200,
+        "age": 25,
+        "photo": "https://images.pexels.com/photos/2537658/pexels-photo-2537658.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "country": "USA"
+    },
+    {
+        "id": 10,
+        "name": "Akshay Dau",
+        "role": "Expart in Bootstarp",
+        "salary": 3500,
+        "age": 24,
+        "photo": "https://images.pexels.com/photos/3649765/pexels-photo-3649765.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "country": "Bangladesh"
+    },
+    {
+        "id": 11,
+        "name": "Janko Ferlic",
+        "role": "Back End Devoloper",
+        "salary": 4000,
+        "age": 28,
+        "photo": "https://images.pexels.com/photos/590479/pexels-photo-590479.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "country": "Canada"
+    }
+]
